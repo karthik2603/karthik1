@@ -6,4 +6,4 @@
 
 # Induce an exception to see what happens
 - ping:
-    data: crash
+    data: crashkarthik
